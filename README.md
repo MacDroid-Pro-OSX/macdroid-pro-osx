@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/macdroidmacmac">  
+<a href="https://get-software-osx.github.io/.github/macdroidproosx">  
 <img src="https://img.shields.io/badge/Get_MacDroid_Pro_for_macOS-darkblue?style=for-the-badge&logo=apple" alt="Get MacDroid Pro for macOS">  
 </a>  
 </div>  
